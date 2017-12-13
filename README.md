@@ -1,4 +1,4 @@
-# react-native-android-danmaku
+## react-native-android-danmaku
 ## 第一步
 工程目录下运行 npm install --save react-native-android-danmaku 或者 yarn add react-native-android-danmaku(已经安装了yarn)
 ## 第二步
@@ -32,3 +32,6 @@ color：弹幕颜色
 time：弹幕出现时间
 
 
+## 示例
+<!--![image](https://github.com/2534290808/react-native-android-danmaku/blob/master/images/Screenshot_1513176625.png)-->
+<img src="https://github.com/2534290808/react-native-android-danmaku/blob/master/images/Screenshot_1513176625.png" width = "300"  alt="图片名称" align=center />
