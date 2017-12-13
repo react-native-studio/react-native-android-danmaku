@@ -1,6 +1,6 @@
 {
   "name": "react-native-android-danmaku",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "android弹幕插件",
   "main": "DanmakuView.js",
   "scripts": {
