@@ -1,0 +1,22 @@
+{
+  "name": "react-native-android-danmaku",
+  "version": "0.0.1",
+  "description": "android弹幕插件",
+  "main": "DanmakuView.js",
+  "scripts": {
+    "test": "你�npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2534290808/react-native-android-danmaku.git"
+  },
+  "keywords": [
+    "danmaku"
+  ],
+  "author": "lmy2534290808",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2534290808/react-native-android-danmaku/issues"
+  },
+  "homepage": "https://github.com/2534290808/react-native-android-danmaku#readme"
+}
