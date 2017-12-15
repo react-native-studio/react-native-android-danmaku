@@ -17,6 +17,7 @@ this.danmakuView.addDanmaku({text:'000000',color:'red',padding:2,isLive:true,tim
 ```
 <br/>
 注意在使用中时应设置组件的宽高;
+
 ## 属性：
 1 speed 弹幕的速度
 2 maxLines 弹幕的最大行数
