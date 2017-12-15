@@ -5,7 +5,7 @@
 运行 react-native link react-native-android-danmaku
 ## 第三部使用
 在工程中导入：
-`import DanmakuView from 'react-native-android-danmaku';
+```import DanmakuView from 'react-native-android-danmaku';
 
 <DanmakuView style={{flex:1}} speed={1.2} maxLines={5} ref={ref=>this.danmaView=ref}/>
 
@@ -18,7 +18,7 @@ this.danmakuView.hide(); //隐藏弹幕
 this.danmakuView.show(); //显示弹幕
 
 this.danmakuView.addDanmaku({text:'000000',color:'red',padding:2,isLive:true,time:2000,fontSize:36}) //发送弹幕
-`<br/>
+```<br/>
 注意在使用中时应设置组件的宽高;
 ## 属性：
 1 speed 弹幕的速度
