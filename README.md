@@ -3,7 +3,7 @@
 工程目录下运行 npm install --save react-native-android-danmaku 或者 yarn add react-native-android-danmaku(已经安装了yarn)
 
 ### 注意：
-version 0.1.1适用于rn0.44及以上<br/>
+version 0.1.1适用于大于等于rn0.44和小于0.47<br/>
 version 0.2.0适用于rn0.47及以上
 ## 第二步
 运行 react-native link react-native-android-danmaku
