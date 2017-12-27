@@ -38,12 +38,12 @@ fontSize,
 padding,
 color,
 time}`<br/>
-text:弹幕内容
-isLive:是否为直播
-fontSize：弹幕字体大小
-padding：弹幕的内边距
-color：弹幕颜色
-time：弹幕出现时间
+text:弹幕内容，
+isLive:是否为直播，
+fontSize：弹幕字体大小，
+padding：弹幕的内边距，
+color：弹幕颜色，
+time：弹幕出现时间，
 ## 示例
 <!--![image](https://github.com/2534290808/react-native-android-danmaku/blob/master/images/Screenshot_1513176625.png)-->
 <img src="https://github.com/2534290808/react-native-android-danmaku/blob/master/images/Screenshot_1513176625.png" width = "300"  alt="图片名称" align=center />
