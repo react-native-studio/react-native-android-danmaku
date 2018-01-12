@@ -4,7 +4,7 @@
 
 ### 注意：
 version 0.1.1适用于大于等于rn0.44和小于0.47<br/>
-version 0.2.0适用于rn0.47及以上
+version 0.2.1适用于rn0.47及以上
 ## 第二步
 运行 react-native link react-native-android-danmaku
 ## 第三部使用
