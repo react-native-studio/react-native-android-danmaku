@@ -1,9 +1,9 @@
 /**
  * Created by lmy on 2017/12/13.
  */
-import React, {Component, PropTypes} from 'react';
+import React, {Component} from 'react';
 import {StyleSheet, View, Text, requireNativeComponent, findNodeHandle,UIManager,ReactNative} from 'react-native';
-// import PropTypes from 'prop-types';
+import PropTypes from 'prop-types';
 const RCTDanmakuView = requireNativeComponent("RCTDanmakuView", DanmakuView);
 export default class DanmakuView extends Component {
     constructor(props) {
